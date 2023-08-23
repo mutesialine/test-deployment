@@ -13,6 +13,7 @@ export default defineConfig({
         cardNameDescription:resolve(__dirname,'src/Components/cardNameDescription.html'),
         expand:resolve(__dirname,"src/Components/expand.html"),
         maibornWold:resolve(__dirname,"src/Components/maibornWolf.html"),
+        kotakt:resolve(__dirname,"src/Components/kotakt.html"),
         managedTeams:resolve(__dirname,"src/Components/managedTeams.html"),
         ruanda:resolve(__dirname,"src/Components/ruanda.html"),
         sectionCardNameDescription:resolve(__dirname,"src/Components/sectionCardNameDescription.html"),
